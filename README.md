@@ -2,7 +2,7 @@
 
 A self-hosted **WooCommerce license-key server** for WordPress plugins. It issues keys when a product is purchased (or manually), validates them over a public REST API with per-domain activation limits, and rate-limits the public endpoints.
 
-Built by [Outview](https://outview.co.za). Current version: **1.8.2**.
+Built by [Outview](https://outview.co.za), AI-assisted: I specified it, Claude generated the code, and I reviewed and tested it. Current version: **1.8.2**.
 
 > **This repository is a view-only showcase.** The product IDs, key prefixes and product names are generic examples, and the private modules that ship in the production build have been removed. It is published to show how the server is designed, not to be reused. See [LICENSE.md](LICENSE.md).
 >
